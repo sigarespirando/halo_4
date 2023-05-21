@@ -51,7 +51,7 @@ function animate() {
 }
 animate();
 
-funtion onResize() {
+function onResize() {
     width = threejsCanvas.offsetWidth;
     height = threejsCanvas.offsetHeight;
 
